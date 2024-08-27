@@ -1,0 +1,23 @@
+.about-me-container {
+    padding: 5rem 1rem; /* Adjust padding as needed */
+}
+
+.about-me-text {
+    text-align: left; /* Align text to the left for readability */
+    line-height: 1.6; /* Increase line height for better readability */
+}
+
+
+.about-me-text p {
+    color: #ffc300; /* Customize text color */
+    font-size: 1.1rem; /* Adjust font size */
+    margin-top: 1.5rem; /* Space above the paragraph */
+    margin-bottom: 1rem; /* Space below the paragraph */
+    text-align: justify; /* Justify text for better alignment */
+    margin-right: 100px;
+}
+@media only screen and (max-width: 800px) {
+    .about-me-text p {
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+body{
+  background-color: beige;
+  min-height: 100vh;
+  overflow: auto;
+  overflow-x: hidden;
+}
+

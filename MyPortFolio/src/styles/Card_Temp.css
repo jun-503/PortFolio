@@ -1,0 +1,37 @@
+.project-card {
+    height: 100% !important; /* Ensures all cards have the same height */
+    margin-top: 1rem;
+    background-color: #af9f7f!important;
+}
+
+.project-card .card-img-top {
+    height: 200px; /* Set a fixed height for images */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+}
+
+.project-card .card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-card .card-title {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+    margin-bottom: 0.5rem;
+}
+
+.project-card .card-text {
+    flex-grow: 1;
+    margin-bottom: 1rem; /* Add space below text */
+}
+
+.project-card .btn {
+    align-self: start;
+    background-color:#907857 ;
+    border-color: #14213d ;
+    box-shadow: none !important;
+    outline:none !important;
+}
+.project-card .btn:hover {
+
+    background-color:#323232 ;
+}

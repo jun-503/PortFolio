@@ -1,0 +1,16 @@
+.resume-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Ensure the container covers the full viewport height */
+    padding-top: 70px; /* Adjust based on the height of your navbar */
+    padding-bottom: 70px; /* Adjust based on the height of your footer */
+    box-sizing: border-box; /* Ensure padding is included in the height calculation */
+  }
+  
+.centered-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+  

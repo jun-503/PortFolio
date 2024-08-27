@@ -1,0 +1,49 @@
+.big-heading-container {
+    text-align: start !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.big-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem; /* Adjust size as needed */
+    color: #323232; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+    margin: 0;
+    padding: 0;
+}
+.big-heading-dark {
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem; /* Adjust size as needed */
+    color: beige; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+    margin: 0;
+    padding: 0;
+}
+
+
+@media only screen and (max-width:620px) {
+    
+    .big-heading {
+        font-size: 2.5rem;
+    }
+    .big-heading-dark {
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    
+    .big-heading {
+        font-size: 1.8rem;
+    }
+    .big-heading-dark {
+        font-size: 1.8rem;
+    }
+}

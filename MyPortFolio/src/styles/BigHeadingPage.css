@@ -1,0 +1,36 @@
+.heading-container {
+    background-color: #907857;
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-heading-container {
+    text-align: center;
+}
+
+.big-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem; /* Adjust size as needed */
+    color: #000814; /* Text color */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width: 620px) {
+    .big-heading {
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .big-heading {
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,30 @@
+.skills-container {
+    padding: 3rem 1rem; /* Adjust padding as needed */
+}
+
+.skill-item {
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #ddd; /* Light border for skill items */
+    border-radius: 8px; /* Rounded corners for skill items */
+    background-color: #af9f7f; /* Light background color */
+}
+
+.skill-name h5 {
+     /* Customize skill name color */
+    margin-bottom: 1rem;
+}
+
+.skill-percentage {
+    color: #333; /* Customize percentage color */
+    margin-top: 0.5rem;
+}
+
+.progress-bar {
+    background-color: #323232 !important; /* Customize progress bar color */
+    height: 1.5rem; /* Adjust height */
+}
+
+.progress-bar-striped {
+    background: linear-gradient(45deg, rgba(0,0,0,0.2) 25%, transparent 25%, transparent 50%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0.2) 75%, transparent 75%, transparent);
+}

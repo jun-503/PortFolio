@@ -1,0 +1,18 @@
+
+
+.highlight {
+    background-color: #f0f8ff; /* Light blue background */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #d1e7dd;
+    margin: 10px 0;
+}
+
+.highlight-dark {
+    background-color: #128bf5; /* Light blue background */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #d1e7dd;
+    margin: 10px 0;
+}
+  

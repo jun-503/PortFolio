@@ -1,0 +1,21 @@
+.Default-navbar{
+    background-color: #323232;
+}
+.NotDefault-navbar{
+    background-color: beige
+}
+
+
+.custom-nav-link {
+    color: #FFD700 !important; /* Adjust color as needed */
+    display: flex !important;
+    align-items: center !important;
+}
+
+.custom-nav-link .me-2 {
+    margin-right: 8px; /* Space between icon and text */
+}
+
+.custom-nav-link:hover {
+    color: #FFA500; /* Adjust hover color as needed */
+}
