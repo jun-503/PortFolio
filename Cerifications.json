@@ -1,0 +1,22 @@
+[
+    {
+      "cid": 1,
+      "name": "Meta Frontend Developer",
+      "image": "/images/cid.png",
+      "description": "Welcome to our online haven of style and convenience, where shopping is not just an activity but an experience. Discover a curated selection of premium products that cater to your every need, from fashion-forward apparel to cutting-edge gadgets. With a seamless interface and user-friendly navigation, your perfect find is just a click away."
+    },
+    {
+      "cid": 2,
+      "name": "Python For AI and DS",
+      "image": "/images/cid.png",
+      "description": "Welcome to my digital canvas, where creativity meets technology. This Python For AI and DS is a reflection of my journey as a full-stack developer, blending innovation, design, and functionality to bring ideas to life. Here, you’ll explore a collection of my work, showcasing the skills and passion I pour into every project. Whether it's crafting dynamic web applications or diving into the latest in AI, each piece tells a story of dedication and growth."
+    },
+    {
+      "cid": 3,
+      "name": "Meta Frontend Developer",
+      "image": "/images/cid.png",
+      "description": "Welcome to our online haven of style and convenience, where shopping is not just an activity but an experience. Discover a curated selection of premium products that cater to your every need, from fashion-forward apparel to cutting-edge gadgets. With a seamless interface and user-friendly navigation, your perfect find is just a click away."
+    }
+    
+  ]
+  

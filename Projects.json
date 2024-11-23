@@ -1,0 +1,25 @@
+[
+    {
+      "pid": 1,
+      "name": "Ecommerce Store",
+      "image": "/images/pid1.jpg",
+      "description": "Welcome to our online haven of style and convenience, where shopping is not just an activity but an experience. Discover a curated selection of premium products that cater to your every need, from fashion-forward apparel to cutting-edge gadgets. With a seamless interface and user-friendly navigation, your perfect find is just a click away.",
+      "link":"https://github.com/jun-503/Ecommerce-Practice"
+    },
+    {
+      "pid": 2,
+      "name": "PortFolio",
+      "image": "/images/pid2.jpg",
+      "description": "Welcome to my digital canvas, where creativity meets technology. This portfolio is a reflection of my journey as a full-stack developer, blending innovation, design, and functionality to bring ideas to life. Here, you’ll explore a collection of my work, showcasing the skills and passion I pour into every project. Whether it's crafting dynamic web applications or diving into the latest in AI, each piece tells a story of dedication and growth."
+      ,"link":"https://github.com/jun-503/PortFolio"
+    },
+    {
+      "pid": 3,
+      "name": "Little Lemon Website",
+      "image": "/images/cid3.png",
+      "description": "This project is a little lemon website where i am trying to implement the concepts of React and Bootstrap. It is the front-end capstone for Meta front-end developer course.",
+      "link": "https://github.com/jun-503/Front-End-Capstone"
+    }
+    
+  ]
+  
